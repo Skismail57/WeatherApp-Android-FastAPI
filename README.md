@@ -6,34 +6,48 @@ A comprehensive cross-platform weather application featuring a native Android fr
 
 ## 📱 App Demo Video
 
-https://github.com/user-attachments/assets/APP%20WORKING%20VIDEO.mp4
+<video src="App Screenshots/APP WORKING VIDEO.mp4" width="600" controls autoplay loop muted></video>
 
 ## 📸 App Screenshots
 
-![Screenshot 1](App%20Screenshots/Screenshot_20260921-111503_Weather%20Forecast.jpg)
-![Screenshot 2](App%20Screenshots/Screenshot_20260921-111558_Weather%20Forecast.jpg)
-![Screenshot 3](App%20Screenshots/Screenshot_20260921-111624_Weather%20Forecast.jpg)
-![Screenshot 4](App%20Screenshots/Screenshot_20260921-111642_Weather%20Forecast.jpg)
-![Screenshot 5](App%20Screenshots/Screenshot_20260921-111731_Weather%20Forecast.jpg)
-![Screenshot 6](App%20Screenshots/Screenshot_20260921-111900_Weather%20Forecast.jpg)
-![Screenshot 7](App%20Screenshots/Screenshot_20260921-111944_Weather%20Forecast.jpg)
-![Screenshot 8](App%20Screenshots/Screenshot_20260921-112014_Weather%20Forecast.jpg)
-![Screenshot 9](App%20Screenshots/Screenshot_20260921-112036_Weather%20Forecast.jpg)
-![Screenshot 10](App%20Screenshots/Screenshot_20260921-112100_Weather%20Forecast.jpg)
-![Screenshot 11](App%20Screenshots/Screenshot_20260921-112121_Weather%20Forecast.jpg)
-![Screenshot 12](App%20Screenshots/Screenshot_20260921-112141_Weather%20Forecast.jpg)
-![Screenshot 13](App%20Screenshots/Screenshot_20260921-112203_Weather%20Forecast.jpg)
-![Screenshot 14](App%20Screenshots/Screenshot_20260921-112226_Weather%20Forecast.jpg)
-![Screenshot 15](App%20Screenshots/Screenshot_20260921-112248_Weather%20Forecast.jpg)
-![Screenshot 16](App%20Screenshots/Screenshot_20260921-112311_Weather%20Forecast.jpg)
-![Screenshot 17](App%20Screenshots/Screenshot_20260921-112331_Weather%20Forecast.jpg)
-![Screenshot 18](App%20Screenshots/Screenshot_20260921-112504_Weather%20Forecast.jpg)
-![Screenshot 19](App%20Screenshots/Screenshot_20260921-112529_Weather%20Forecast.jpg)
-![Screenshot 20](App%20Screenshots/Screenshot_20260921-112544_Weather%20Forecast.jpg)
-![Screenshot 21](App%20Screenshots/Screenshot_20260921-112606_Weather%20Forecast.jpg)
-![Screenshot 22](App%20Screenshots/Screenshot_20260921-112618_Weather%20Forecast.jpg)
-![Screenshot 23](App%20Screenshots/Screenshot_20260921-112625_Weather%20Forecast.jpg)
-![Screenshot 24](App%20Screenshots/Screenshot_20260921-112631_Weather%20Forecast.jpg)
+<table>
+  <tr>
+    <td><img src="App%20Screenshots/Screenshot_20260921-111503_Weather%20Forecast.jpg" width="250"></td>
+    <td><img src="App%20Screenshots/Screenshot_20260921-111558_Weather%20Forecast.jpg" width="250"></td>
+    <td><img src="App%20Screenshots/Screenshot_20260921-111624_Weather%20Forecast.jpg" width="250"></td>
+    <td><img src="App%20Screenshots/Screenshot_20260921-111642_Weather%20Forecast.jpg" width="250"></td>
+  </tr>
+  <tr>
+    <td><img src="App%20Screenshots/Screenshot_20260921-111731_Weather%20Forecast.jpg" width="250"></td>
+    <td><img src="App%20Screenshots/Screenshot_20260921-111900_Weather%20Forecast.jpg" width="250"></td>
+    <td><img src="App%20Screenshots/Screenshot_20260921-111944_Weather%20Forecast.jpg" width="250"></td>
+    <td><img src="App%20Screenshots/Screenshot_20260921-112014_Weather%20Forecast.jpg" width="250"></td>
+  </tr>
+  <tr>
+    <td><img src="App%20Screenshots/Screenshot_20260921-112036_Weather%20Forecast.jpg" width="250"></td>
+    <td><img src="App%20Screenshots/Screenshot_20260921-112100_Weather%20Forecast.jpg" width="250"></td>
+    <td><img src="App%20Screenshots/Screenshot_20260921-112121_Weather%20Forecast.jpg" width="250"></td>
+    <td><img src="App%20Screenshots/Screenshot_20260921-112141_Weather%20Forecast.jpg" width="250"></td>
+  </tr>
+  <tr>
+    <td><img src="App%20Screenshots/Screenshot_20260921-112203_Weather%20Forecast.jpg" width="250"></td>
+    <td><img src="App%20Screenshots/Screenshot_20260921-112226_Weather%20Forecast.jpg" width="250"></td>
+    <td><img src="App%20Screenshots/Screenshot_20260921-112248_Weather%20Forecast.jpg" width="250"></td>
+    <td><img src="App%20Screenshots/Screenshot_20260921-112311_Weather%20Forecast.jpg" width="250"></td>
+  </tr>
+  <tr>
+    <td><img src="App%20Screenshots/Screenshot_20260921-112331_Weather%20Forecast.jpg" width="250"></td>
+    <td><img src="App%20Screenshots/Screenshot_20260921-112504_Weather%20Forecast.jpg" width="250"></td>
+    <td><img src="App%20Screenshots/Screenshot_20260921-112529_Weather%20Forecast.jpg" width="250"></td>
+    <td><img src="App%20Screenshots/Screenshot_20260921-112544_Weather%20Forecast.jpg" width="250"></td>
+  </tr>
+  <tr>
+    <td><img src="App%20Screenshots/Screenshot_20260921-112606_Weather%20Forecast.jpg" width="250"></td>
+    <td><img src="App%20Screenshots/Screenshot_20260921-112618_Weather%20Forecast.jpg" width="250"></td>
+    <td><img src="App%20Screenshots/Screenshot_20260921-112625_Weather%20Forecast.jpg" width="250"></td>
+    <td><img src="App%20Screenshots/Screenshot_20260921-112631_Weather%20Forecast.jpg" width="250"></td>
+  </tr>
+</table>
 
 ## ✨ Features
 
