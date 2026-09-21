@@ -15,3 +15,5 @@
 *.jks
 *.keystore
 backend/.env
+commandlinetools.zip
+App Screenshots/*.mp4
