@@ -17,3 +17,4 @@
 backend/.env
 commandlinetools.zip
 App Screenshots/*.mp4
+convert_to_gif.py

@@ -6,7 +6,7 @@ A comprehensive cross-platform weather application featuring a native Android fr
 
 ## 📱 App Demo Video
 
-<video src="App Screenshots/APP WORKING VIDEO.mp4" width="600" controls autoplay loop muted></video>
+![App Demo](App%20Screenshots/APP%20WORKING%20VIDEO.gif)
 
 ## 📸 App Screenshots
 
