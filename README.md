@@ -104,24 +104,24 @@ MySQL Database (Persistence)
 ### Android Frontend
 
 #### Core Technologies
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"> **Language**: Java
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width="40" height="40"> **Build System**: Gradle 8.13
+- **Language**: Java
+- **Build System**: Gradle 8.13
 - **Android Gradle Plugin**: 8.13.2
 - **Compile SDK**: 36
 - **Target SDK**: 36
 - **Minimum SDK**: 19 (Android 4.4+)
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openjdk/openjdk-original.svg" width="40" height="40"> **JDK**: 17
+- **JDK**: 17
 
 #### Libraries & Dependencies
 - **Networking**: Volley 1.2.1 - HTTP client for API requests
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"> **Location Services**: Google Play Services Location 21.0.1 - GPS and location detection
+- **Location Services**: Google Play Services Location 21.0.1 - GPS and location detection
 - **UI Components**:
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialdesign/materialdesign-original.svg" width="40" height="40"> Material Design Components 1.9.0
+  - Material Design Components 1.9.0
   - AppCompat 1.6.1
   - ConstraintLayout 2.1.4
   - SwipeRefreshLayout 1.1.0
 - **Animations**:
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lottie/lottie-original.svg" width="40" height="40"> Lottie 5.2.0 - High-quality animations
+  - Lottie 5.2.0 - High-quality animations
   - SpinKit 1.4.0 - Loading indicators
 - **Custom Components**:
   - Roasted Toast 1.0.2 - Custom toast messages
@@ -132,42 +132,42 @@ MySQL Database (Persistence)
 ### Backend API
 
 #### Core Technologies
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"> **Language**: Python 3.11+
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"> **Framework**: FastAPI 0.115.0 - Modern, fast web framework
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/uvicorn/uvicorn-original.svg" width="40" height="40"> **ASGI Server**: Uvicorn 0.32.0 - Lightning-fast ASGI server
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/httpx/httpx-original.svg" width="40" height="40"> **HTTP Client**: httpx 0.27.2 - Async HTTP client
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="40" height="40"> **ORM**: SQLAlchemy 2.0.35 - SQL toolkit and ORM
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"> **Database Driver**: PyMySQL 1.1.1 - MySQL connector
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pydantic/pydantic-original.svg" width="40" height="40"> **Validation**: Pydantic 2.9.2 - Data validation using Python type annotations
+- **Language**: Python 3.11+
+- **Framework**: FastAPI 0.115.0 - Modern, fast web framework
+- **ASGI Server**: Uvicorn 0.32.0 - Lightning-fast ASGI server
+- **HTTP Client**: httpx 0.27.2 - Async HTTP client
+- **ORM**: SQLAlchemy 2.0.35 - SQL toolkit and ORM
+- **Database Driver**: PyMySQL 1.1.1 - MySQL connector
+- **Validation**: Pydantic 2.9.2 - Data validation using Python type annotations
 - **Settings**: Pydantic Settings 2.6.0 - Configuration management
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotenv/dotenv-original.svg" width="40" height="40"> **Environment**: python-dotenv 1.0.1 - Environment variable management
+- **Environment**: python-dotenv 1.0.1 - Environment variable management
 
 #### Testing
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="40" height="40"> **pytest**: 8.3.3 - Testing framework
+- **pytest**: 8.3.3 - Testing framework
 - **pytest-asyncio**: 0.24.0 - Async testing support
 
 ### External APIs
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openmeteo/openmeteo-original.svg" width="40" height="40"> **Open-Meteo Geocoding API**: `https://geocoding-api.open-meteo.com/v1/search`
+- **Open-Meteo Geocoding API**: `https://geocoding-api.open-meteo.com/v1/search`
   - Converts city names to coordinates
   - Free, no API key required
   - Supports worldwide locations
   
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openmeteo/openmeteo-original.svg" width="40" height="40"> **Open-Meteo Forecast API**: `https://api.open-meteo.com/v1/forecast`
+- **Open-Meteo Forecast API**: `https://api.open-meteo.com/v1/forecast`
   - Current weather data
   - Hourly forecasts (up to 48 hours)
   - Daily forecasts (up to 7 days)
   - Historical weather data (from 1979)
   - Free for non-commercial use
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openmeteo/openmeteo-original.svg" width="40" height="40"> **Open-Meteo Historical API**: `https://archive-api.open-meteo.com/v1/archive`
+- **Open-Meteo Historical API**: `https://archive-api.open-meteo.com/v1/archive`
   - Historical weather data
   - Data available from 1979-01-01
   - Maximum 1-year range per request
 
 ### Database
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"> **MySQL 8.0+**: Relational database for persistence
+- **MySQL 8.0+**: Relational database for persistence
 - **Tables**:
   - `weather_records` - Current weather data
   - `weather_forecasts` - Forecast data
