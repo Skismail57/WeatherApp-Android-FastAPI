@@ -104,24 +104,24 @@ MySQL Database (Persistence)
 ### Android Frontend
 
 #### Core Technologies
-- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"> **Language**: Java
-- <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"> **Build System**: Gradle 8.13
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"> **Language**: Java
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width="40" height="40"> **Build System**: Gradle 8.13
 - **Android Gradle Plugin**: 8.13.2
 - **Compile SDK**: 36
 - **Target SDK**: 36
 - **Minimum SDK**: 19 (Android 4.4+)
-- <img src="https://img.shields.io/badge/JDK-17-orange?style=for-the-badge&logo=openjdk&logoColor=white" alt="JDK"> **JDK**: 17
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openjdk/openjdk-original.svg" width="40" height="40"> **JDK**: 17
 
 #### Libraries & Dependencies
 - **Networking**: Volley 1.2.1 - HTTP client for API requests
-- <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"> **Location Services**: Google Play Services Location 21.0.1 - GPS and location detection
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"> **Location Services**: Google Play Services Location 21.0.1 - GPS and location detection
 - **UI Components**:
-  - <img src="https://img.shields.io/badge/Material%20Design-0081CB?style=for-the-badge&logo=material-design&logoColor=white" alt="Material Design"> Material Design Components 1.9.0
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialdesign/materialdesign-original.svg" width="40" height="40"> Material Design Components 1.9.0
   - AppCompat 1.6.1
   - ConstraintLayout 2.1.4
   - SwipeRefreshLayout 1.1.0
 - **Animations**:
-  - <img src="https://img.shields.io/badge/Lottie-FF6F61?style=for-the-badge&logo=lottie&logoColor=white" alt="Lottie"> Lottie 5.2.0 - High-quality animations
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lottie/lottie-original.svg" width="40" height="40"> Lottie 5.2.0 - High-quality animations
   - SpinKit 1.4.0 - Loading indicators
 - **Custom Components**:
   - Roasted Toast 1.0.2 - Custom toast messages
@@ -132,42 +132,42 @@ MySQL Database (Persistence)
 ### Backend API
 
 #### Core Technologies
-- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> **Language**: Python 3.11+
-- <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=.fastapi&logoColor=white" alt="FastAPI"> **Framework**: FastAPI 0.115.0 - Modern, fast web framework
-- <img src="https://img.shields.io/badge/Uvicorn-009688?style=for-the-badge&logo=uvicorn&logoColor=white" alt="Uvicorn"> **ASGI Server**: Uvicorn 0.32.0 - Lightning-fast ASGI server
-- <img src="https://img.shields.io/badge/httpx-FF6B6B?style=for-the-badge&logo=httpx&logoColor=white" alt="httpx"> **HTTP Client**: httpx 0.27.2 - Async HTTP client
-- <img src="https://img.shields.io/badge/SQLAlchemy-336791?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"> **ORM**: SQLAlchemy 2.0.35 - SQL toolkit and ORM
-- <img src="https://img.shields.io/badge/PyMySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="PyMySQL"> **Database Driver**: PyMySQL 1.1.1 - MySQL connector
-- <img src="https://img.shields.io/badge/Pydantic-5A5A5A?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"> **Validation**: Pydantic 2.9.2 - Data validation using Python type annotations
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"> **Language**: Python 3.11+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"> **Framework**: FastAPI 0.115.0 - Modern, fast web framework
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/uvicorn/uvicorn-original.svg" width="40" height="40"> **ASGI Server**: Uvicorn 0.32.0 - Lightning-fast ASGI server
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/httpx/httpx-original.svg" width="40" height="40"> **HTTP Client**: httpx 0.27.2 - Async HTTP client
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="40" height="40"> **ORM**: SQLAlchemy 2.0.35 - SQL toolkit and ORM
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"> **Database Driver**: PyMySQL 1.1.1 - MySQL connector
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pydantic/pydantic-original.svg" width="40" height="40"> **Validation**: Pydantic 2.9.2 - Data validation using Python type annotations
 - **Settings**: Pydantic Settings 2.6.0 - Configuration management
-- <img src="https://img.shields.io/badge/dotenv-4CA143?style=for-the-badge&logo=dotenv&logoColor=white" alt="dotenv"> **Environment**: python-dotenv 1.0.1 - Environment variable management
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotenv/dotenv-original.svg" width="40" height="40"> **Environment**: python-dotenv 1.0.1 - Environment variable management
 
 #### Testing
-- <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest"> **pytest**: 8.3.3 - Testing framework
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="40" height="40"> **pytest**: 8.3.3 - Testing framework
 - **pytest-asyncio**: 0.24.0 - Async testing support
 
 ### External APIs
 
-- <img src="https://img.shields.io/badge/Open--Meteo-3B82F6?style=for-the-badge&logo=open-meteo&logoColor=white" alt="Open-Meteo"> **Open-Meteo Geocoding API**: `https://geocoding-api.open-meteo.com/v1/search`
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openmeteo/openmeteo-original.svg" width="40" height="40"> **Open-Meteo Geocoding API**: `https://geocoding-api.open-meteo.com/v1/search`
   - Converts city names to coordinates
   - Free, no API key required
   - Supports worldwide locations
   
-- <img src="https://img.shields.io/badge/Open--Meteo-3B82F6?style=for-the-badge&logo=open-meteo&logoColor=white" alt="Open-Meteo"> **Open-Meteo Forecast API**: `https://api.open-meteo.com/v1/forecast`
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openmeteo/openmeteo-original.svg" width="40" height="40"> **Open-Meteo Forecast API**: `https://api.open-meteo.com/v1/forecast`
   - Current weather data
   - Hourly forecasts (up to 48 hours)
   - Daily forecasts (up to 7 days)
   - Historical weather data (from 1979)
   - Free for non-commercial use
 
-- <img src="https://img.shields.io/badge/Open--Meteo-3B82F6?style=for-the-badge&logo=open-meteo&logoColor=white" alt="Open-Meteo"> **Open-Meteo Historical API**: `https://archive-api.open-meteo.com/v1/archive`
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openmeteo/openmeteo-original.svg" width="40" height="40"> **Open-Meteo Historical API**: `https://archive-api.open-meteo.com/v1/archive`
   - Historical weather data
   - Data available from 1979-01-01
   - Maximum 1-year range per request
 
 ### Database
 
-- <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> **MySQL 8.0+**: Relational database for persistence
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"> **MySQL 8.0+**: Relational database for persistence
 - **Tables**:
   - `weather_records` - Current weather data
   - `weather_forecasts` - Forecast data
