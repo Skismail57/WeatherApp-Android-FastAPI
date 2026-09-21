@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="88dp"
+    android:layout_height="wrap_content"
+    android:minHeight="110dp"
+    android:background="@drawable/day_block_bg"
+    android:padding="10dp">
+
+    <!-- Time -->
+    <TextView
+        android:id="@+id/hourly_time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:fontFamily="@font/koho_regular"
+        android:gravity="center"
+        android:text="10 AM"
+        android:textColor="@color/textColor"
+        android:textSize="12sp"
+        android:textStyle="bold" />
+
+    <!-- Weather Icon -->
+    <ImageView
+        android:id="@+id/hourly_icon"
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:layout_below="@id/hourly_time"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="6dp"
+        android:layout_marginBottom="6dp"
+        android:contentDescription="@string/weather_icon_desc"
+        android:scaleType="fitCenter" />
+
+    <!-- Temperature -->
+    <TextView
+        android:id="@+id/hourly_temperature"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/hourly_icon"
+        android:fontFamily="@font/koho_regular"
+        android:gravity="center"
+        android:text="28°C"
+        android:textColor="@color/textColor"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+    <!-- Precipitation Probability -->
+    <TextView
+        android:id="@+id/hourly_precipitation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/hourly_temperature"
+        android:layout_marginTop="3dp"
+        android:fontFamily="@font/koho_regular"
+        android:gravity="center"
+        android:text="20%"
+        android:textColor="@color/textColor"
+        android:textSize="11sp" />
+
+</RelativeLayout>

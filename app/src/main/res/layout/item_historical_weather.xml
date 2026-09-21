@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="12dp"
+    android:background="@drawable/center_block_bg"
+    android:layout_marginBottom="8dp">
+
+    <TextView
+        android:id="@+id/historical_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Jan 01, 2024"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="@color/textColor"
+        android:fontFamily="@font/koho_regular"
+        android:layout_marginBottom="8dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Max Temp"
+                android:textSize="12sp"
+                android:textColor="@color/textColor"
+                android:fontFamily="@font/koho_regular" />
+
+            <TextView
+                android:id="@+id/historical_temp_max"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="25.0°C"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                android:textColor="@color/textColor"
+                android:fontFamily="@font/koho_regular" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Min Temp"
+                android:textSize="12sp"
+                android:textColor="@color/textColor"
+                android:fontFamily="@font/koho_regular" />
+
+            <TextView
+                android:id="@+id/historical_temp_min"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="15.0°C"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                android:textColor="@color/textColor"
+                android:fontFamily="@font/koho_regular" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Avg Temp"
+                android:textSize="12sp"
+                android:textColor="@color/textColor"
+                android:fontFamily="@font/koho_regular" />
+
+            <TextView
+                android:id="@+id/historical_temp_mean"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="20.0°C"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                android:textColor="@color/textColor"
+                android:fontFamily="@font/koho_regular" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="8dp">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Precipitation"
+                android:textSize="12sp"
+                android:textColor="@color/textColor"
+                android:fontFamily="@font/koho_regular" />
+
+            <TextView
+                android:id="@+id/historical_precip"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="0.0 mm"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                android:textColor="@color/textColor"
+                android:fontFamily="@font/koho_regular" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Wind Max"
+                android:textSize="12sp"
+                android:textColor="@color/textColor"
+                android:fontFamily="@font/koho_regular" />
+
+            <TextView
+                android:id="@+id/historical_wind"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="10.0 km/h"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                android:textColor="@color/textColor"
+                android:fontFamily="@font/koho_regular" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Humidity"
+                android:textSize="12sp"
+                android:textColor="@color/textColor"
+                android:fontFamily="@font/koho_regular" />
+
+            <TextView
+                android:id="@+id/historical_humidity"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="65%"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                android:textColor="@color/textColor"
+                android:fontFamily="@font/koho_regular" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

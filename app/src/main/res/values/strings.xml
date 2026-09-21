@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="mic_desc" translatable="false">mic for search</string>
+    <string name="day">day</string>
+    <string name="pressure">PRESSURE</string>
+    <string name="wind">WIND</string>
+    <string name="humidity">HUMIDITY</string>
+    <string name="enter_city_name">Search city</string>
+    <string name="updated_at">UPDATED AT</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    <string name="please_enter_city_name">Please enter the city name</string>
+    <string name="please_check_internet">Please check your internet connection</string>
+    <string name="location_unavailable">Location unavailable. Showing Delhi weather.</string>
+    <string name="weather_data_unavailable">Weather data unavailable</string>
+    <string name="city_not_found">City not found. Please enter a valid city name.</string>
+    <string name="unable_to_load_forecast">Unable to load forecast. Showing current weather only.</string>
+    <string name="permission_granted">Permission Granted</string>
+    <string name="permission_denied">Permission Denied</string>
+    <string name="update_failed">Update Failed</string>
+    <string name="unavailable">Unavailable</string>
+    <string name="network_connection_error">Unable to connect to weather server. Please ensure:\n- Your phone is on the same Wi-Fi network as your development PC\n- The FastAPI server is running on port 8000\n- Windows Firewall allows TCP port 8000\n- The correct PC LAN IP is configured in local.properties</string>
+    <string name="weather_icon_desc">Weather condition icon</string>
+</resources>
